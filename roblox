@@ -1,0 +1,11 @@
+--farm factory tycoon
+if(game.PlaceId == 10198661638) then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DragonBallRage1/farm-factory-tycoon/main/script"))()
+end
+
+--jungle soda drinking simulator
+if(game.PlaceId == 2017976530) then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DragonBallRage1/junglesodadrinkingsimulator/main/roblox"))()
+
+end
